@@ -1,5 +1,6 @@
 /** 节日数据，小程序从此文件加载 */
 module.exports = [
+  // 2026年
   { year: 2026, name: '元旦', start: '1.1', end: '1.3' },
   { year: 2026, name: '春节', start: '2.15', end: '2.23' },
   { year: 2026, name: '第2学期开学', start: '3.2', end: '-', hideOnHome: true },
@@ -10,6 +11,7 @@ module.exports = [
   { year: 2026, name: '第1学期开学', start: '9.1', end: '-', hideOnHome: true },
   { year: 2026, name: '中秋节', start: '9.25', end: '9.27' },
   { year: 2026, name: '国庆节', start: '10.1', end: '10.7' },
+  // 2027年
   { year: 2027, name: '元旦', start: '1.1', end: '1.3' },
   { year: 2027, name: '第1学期寒假', start: '1.18', end: '2.21', hideOnHome: true },
   { year: 2027, name: '春节', start: '2.5', end: '2.13' },
@@ -20,5 +22,38 @@ module.exports = [
   { year: 2027, name: '第2学期暑假', start: '7.10', end: '8.31', hideOnHome: true },
   { year: 2027, name: '第1学期开学', start: '9.1', end: '-', hideOnHome: true },
   { year: 2027, name: '中秋节', start: '9.22', end: '9.24' },
-  { year: 2027, name: '国庆节', start: '10.1', end: '10.7' }
+  { year: 2027, name: '国庆节', start: '10.1', end: '10.7' },
+  // 2022年
+  { year: 2022, name: '元旦', start: '1.1', end: '1.3' },
+  { year: 2022, name: '春节', start: '1.31', end: '2.6' },
+  { year: 2022, name: '清明节', start: '4.3', end: '4.5' },
+  { year: 2022, name: '劳动节', start: '4.30', end: '5.4' },
+  { year: 2022, name: '端午节', start: '6.3', end: '6.5' },
+  { year: 2022, name: '中秋节', start: '9.10', end: '9.12' },
+  { year: 2022, name: '国庆节', start: '10.1', end: '10.7' },
+  // 2023年
+  { year: 2023, name: '元旦', start: '12.31', end: '1.2' },
+  { year: 2023, name: '春节', start: '1.21', end: '1.27' },
+  { year: 2023, name: '清明节', start: '4.5', end: '4.5' },
+  { year: 2023, name: '劳动节', start: '4.29', end: '5.3' },
+  { year: 2023, name: '端午节', start: '6.22', end: '6.24' },
+  { year: 2023, name: '中秋节', start: '9.29', end: '10.6' },
+  { year: 2023, name: '国庆节', start: '9.29', end: '10.6' },
+  // 2024年
+  { year: 2024, name: '元旦', start: '1.1', end: '1.1' },
+  { year: 2024, name: '春节', start: '2.10', end: '2.17' },
+  { year: 2024, name: '清明节', start: '4.4', end: '4.6' },
+  { year: 2024, name: '劳动节', start: '5.1', end: '5.5' },
+  { year: 2024, name: '端午节', start: '6.8', end: '6.10' },
+  { year: 2024, name: '中秋节', start: '9.15', end: '9.17' },
+  { year: 2024, name: '国庆节', start: '10.1', end: '10.7' },
+  // 2025年
+  { year: 2025, name: '元旦', start: '1.1', end: '1.1' },
+  { year: 2025, name: '春节', start: '1.28', end: '2.4' },
+  { year: 2025, name: '清明节', start: '4.4', end: '4.6' },
+  { year: 2025, name: '劳动节', start: '5.1', end: '5.5' },
+  { year: 2025, name: '端午节', start: '5.31', end: '6.2' },
+  { year: 2025, name: '中秋节', start: '10.1', end: '10.8' },
+  { year: 2025, name: '国庆节', start: '10.1', end: '10.8' },
+  { year: 1995, name: '诞生', start: '4.29', end: '-', hideOnHome: true } 
 ]
