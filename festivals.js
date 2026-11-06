@@ -12,6 +12,14 @@ module.exports = [
   { year: 2027, name: '第1学期开学', start: '9.1', end: '-', hideOnHome: true },
   { year: 2027, name: '中秋节', start: '9.15', end: '9.15' },
   { year: 2027, name: '国庆节', start: '10.1', end: '10.7' },
+  // 2028年（预测，官方安排预计2027年底公布）
+  { year: 2028, name: '元旦', start: '1.1', end: '1.3' },
+  { year: 2028, name: '春节', start: '1.25', end: '2.2' },
+  { year: 2028, name: '清明节', start: '4.4', end: '4.6' },
+  { year: 2028, name: '劳动节', start: '5.1', end: '5.5' },
+  { year: 2028, name: '端午节', start: '5.28', end: '5.30' },
+  { year: 2028, name: '中秋节', start: '10.1', end: '10.8' },
+  { year: 2028, name: '国庆节', start: '10.1', end: '10.8' },
   // 2022年
   { year: 2022, name: '元旦', start: '1.1', end: '1.3' },
   { year: 2022, name: '第1学期寒假', start: '1.22', end: '2.20', hideOnHome: true },
@@ -63,5 +71,5 @@ module.exports = [
   { year: 2026, name: '第2学期暑假', start: '7.8', end: '8.31', hideOnHome: true },
   { year: 2026, name: '第1学期开学', start: '9.1', end: '-', hideOnHome: true },
   { year: 2026, name: '中秋节', start: '9.25', end: '9.27' },
-  { year: 2026, name: '国庆节', start: '10.1', end: '10.7' },
+  { year: 2026, name: '国庆节', start: '10.1', end: '10.7' }
 ]
